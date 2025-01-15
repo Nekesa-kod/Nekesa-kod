@@ -5,6 +5,13 @@
 - 📫 How to reach me? Just follow the trail of broken code and sacarstic comments.
 - 😄 Pronouns: She.
 - ⚡ Fun fact: ChatGPT is my favourite assistant, but if it gets too sassy, I might have to retrain it.
+  
+## Tools 🛠️
+*Programming Languages:* Python🐍, SQL🧩
+*Data Science Tools:*    Matplotplib📈, Numpy🔢, Pandas🐼, Seaborn🌊, Jupyter Notebooks📒
+*ML Tools:*              Scikit-learn🤖, Tensorflow🔮, Keras 🧠
+*Databases:*             MySQL🐬, PostgreSQL🐘, MongoDB🌱, SQLite🗄️
+*Visualisations:*        PowerBI📊
 
 <!---
 Nekesa-kod/Nekesa-kod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
