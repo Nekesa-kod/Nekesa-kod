@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me? Just follow the trail of broken code and sacarstic comments.
 - 😄 Pronouns: She.
-- ⚡ Fun fact: ChatGPT is my favourite assistant, but if it gets too sassy, I might have to retrain it.
+- ⚡ Fun fact:  My code runs after a motivational peptalk.
   
 ## Tools 🛠️
 - *Programming Languages:* Python🐍, SQL🧩
